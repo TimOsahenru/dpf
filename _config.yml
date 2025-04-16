@@ -42,4 +42,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-remote_theme: pages-themes/minima@v0.2.0  # Ensures GitHub uses the correct theme
