@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Dagogo Pollyn Foundation
-email: your-email@example.com
+email: dagogopollyn@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/dpf"  # Must match your GitHub repo name
-url: "https://timosahenru.github.io"
+baseurl: ""  # Must match your GitHub repo name
+url: "https://www.dagogopollynfoundation.org"
 twitter_username: osahenru
 github_username:  osahenru
 
